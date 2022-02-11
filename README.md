@@ -5,7 +5,7 @@
 * This is a simple photo album management program developed with java.  
 * This project was done for studying java class, GUI and event handling.
 
-# Functions
+# Functionalities
 <img src="./readme_images/sort_date.png" width="450px" height="500px"/><img src="./readme_images/sort_category.png" width="450px" height="500px"/>
 * It load images list from "/images/database.data" and get image file from "/images".
 * You can sort images by **Date** or **Category**.
